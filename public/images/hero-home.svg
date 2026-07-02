@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" fill="none">
+  <rect width="800" height="500" fill="#f6f1e7"/>
+  <circle cx="650" cy="100" r="200" fill="#4fa37d" opacity="0.12"/>
+  <circle cx="100" cy="400" r="180" fill="#d7a73c" opacity="0.15"/>
+  <g transform="translate(480, 80)">
+    <rect width="280" height="340" rx="24" fill="#fff" stroke="#e0d8cc" stroke-width="2"/>
+    <text x="140" y="60" text-anchor="middle" font-size="16" fill="#587062" font-family="system-ui">Your Local Exterminator</text>
+    <circle cx="140" cy="160" r="70" fill="#1f5f50" opacity="0.1"/>
+    <circle cx="140" cy="150" r="50" fill="#1f5f50"/>
+    <rect x="110" y="210" width="60" height="80" rx="8" fill="#2d7a66"/>
+    <rect x="95" y="290" width="30" height="50" rx="6" fill="#1f5f50"/>
+    <rect x="155" y="290" width="30" height="50" rx="6" fill="#1f5f50"/>
+    <circle cx="125" cy="140" r="5" fill="#eff6f1"/>
+    <circle cx="155" cy="140" r="5" fill="#eff6f1"/>
+  </g>
+  <g transform="translate(60, 120)">
+    <text x="0" y="0" font-size="52" font-weight="bold" fill="#102117" font-family="Georgia, serif">Pests Gone.</text>
+    <text x="0" y="60" font-size="52" font-weight="bold" fill="#1f5f50" font-family="Georgia, serif">Peace Restored.</text>
+    <text x="0" y="120" font-size="18" fill="#587062" font-family="system-ui">Licensed pest control across Canada</text>
+  </g>
+</svg>
