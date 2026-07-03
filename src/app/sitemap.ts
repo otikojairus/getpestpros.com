@@ -1,7 +1,7 @@
 import type { MetadataRoute } from "next";
 import { pages } from "@/lib/pseo";
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "https://getpestpros.com";
+const siteUrl = "https://getpestpros.com";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const urls: MetadataRoute.Sitemap = [
@@ -20,4 +20,3 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   return urls;
 }
-
